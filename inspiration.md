@@ -4,12 +4,6 @@ subtitle:
 use-site-title: true
 ---
 
-
-
-
-
-
-
 <div class="c-post-list">
   
 

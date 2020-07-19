@@ -4,8 +4,6 @@ layout: journalindex
 subtitle: Why you'd want to go on a date with me
 ---
 
-
-
 <div class="o-section c-post__intro-wrapper">
   <div class="o-title-bar o-title-bar--post">
     <a class="o-backlink" id="back-to" href="/"></a>
