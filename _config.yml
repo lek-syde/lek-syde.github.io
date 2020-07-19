@@ -1,5 +1,5 @@
 ---
-title: LekSyde.Github.Io
+title: leksyde.github.io
 timezone: Africa/Lagos
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
     show-avatar: true
-url: http://leksyde.com/
+url: https://lek-syde.github.io
 baseurl: ''
 description: Programming and a Bunch of other stuffs!
 navbar-links:
@@ -43,10 +43,10 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 author:
-  name: Folayan Olalekan
+  name: Olalekan Folayan
 social-network-links:
   rss: true
-  email: lekan@packmyload.com
+  email: lekus07@gmail.com
   twitter: lekus07
 share-links-active:
   twitter: true
