@@ -10,15 +10,19 @@ use-site-title: true
 
 
 
-
 <div class="c-post-list">
   
 
-  <div class="c-post-list__posts c-post-list__posts--beta">
+  <div class="c-post-list__posts c-post-list__posts--beta" style="border-top: none;">
+{% assign numPosts = site.tags.work | size %}
+{% if numPosts == 0 %}
+    <p>No posts...yet. Working on it please check back soon 🙂 </p>
+{% endif %}
 
-    {% for post in paginator.posts %}
 
-     <a class="c-post-list__post" href="{{ post.url | prepend: site.baseurl }}" title="">
+    {% for post in site.tags.work %}
+
+  <a class="c-post-list__post" href="{{ post.url | prepend: site.baseurl }}" title="">
        {% if post.image %}
         <img
           src="{{ post.image }}"
@@ -26,18 +30,14 @@ use-site-title: true
           data-aos="grayscale">
         {% endif %}
         <h2 class="">{{ post.title }}</h2>
-       
-
-        <span><p>{{ post.excerpt | strip_html | truncatewords:50 }}  </p></span>
-
-      </a>
+             <span><p>{{ post.excerpt | strip_html | truncatewords:50 }}  </p></span>
+</a>
 
 
 
-  
   {% endfor %}
-    
-     
+
+
 
      {% if paginator.total_pages > 1 %}
 <div class="dev-readmore">
@@ -56,12 +56,6 @@ use-site-title: true
   {% endif %}
 </div>
 {% endif %}
-    
-      
-    
-
-     
-   
     
   </div>
 

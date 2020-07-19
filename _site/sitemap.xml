@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2020-02-21-ATIGS-Group-partners-with-Strategy-Hut-to-Host-ATIGS-Dubai-2020/</loc>
+<loc>http://localhost:4000/power-of-going-deep/</loc>
 <lastmod>2020-02-21T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020-02-21-ATIGS-Group-partners-with-Strategy-Hut-to-Host-ATIGS-Dubai2-2020/</loc>
-<lastmod>2020-02-21T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2020-06-21-storage-at-your-finger-tip/</loc>
+<loc>http://localhost:4000/storage-at-your-finger-tip/</loc>
 <lastmod>2020-06-21T00:00:00+01:00</lastmod>
 </url>
 <url>
@@ -19,14 +15,18 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
+<loc>http://localhost:4000/inspiration%20copy/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/abote.html</loc>
-<lastmod>2020-02-21T12:53:49+01:00</lastmod>
+<loc>http://localhost:4000/inspiration/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/branding.html</loc>
-<lastmod>2020-02-14T13:51:59+01:00</lastmod>
+<loc>http://localhost:4000/life/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/vfx/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/work/</loc>
 </url>
 </urlset>

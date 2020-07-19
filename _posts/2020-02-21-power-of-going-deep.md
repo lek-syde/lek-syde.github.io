@@ -1,20 +1,21 @@
 ---
-title: Power of going deep
+title: Power of going deep -Excerpt
 date: 2020-02-21 00:00:00 +01:00
 tags:
-- me
-subtitle: 
+- inspiration
+subtitle: Excerpts from DEEP WORK by Cal Newport
 bigimg: "/img/raitings.png"
-image: https://res.cloudinary.com/moversng/image/upload/v1593811024/TODO%20STORAGE/temitayo-aina-tmz3Z1L1qaQ-unsplash_xbbmq0.jpg
+image: https://res.cloudinary.com/moversng/image/upload/v1593986910/deep-work-by-cal-newport-book-review_nupzh4.jpg
 layout: post
 ---
 
->“Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.”
+ <p>“Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.”</p>
 
->“Shallow Work: Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.”
+<p>“Shallow Work: Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.”</p>
 
 
-There are many ways to discover that you’re not valuable in our economy. For Jason Benn the lesson was made clear when he realized, not long after taking a job as a financial consultant, that the vast majority of his work responsibilities could be automated by a “muddled together” Excel script.
+<p>There are many ways to discover that you’re not valuable in our economy. For Jason Benn the lesson was made clear when he realized, not long after taking a job as a financial consultant, that the vast majority of his work responsibilities could be automated by a “muddled together” Excel script.
+</p>
 The firm that hired Benn produced reports for banks involved in complex deals. (“It was about as interesting as it sounds,” Benn joked in one of our interviews.) The report creation process required hours of manual manipulation of data in a series of Excel spreadsheets. When he first arrived, it took Benn up to six hours per report to finish this stage (the most efficient veterans at the firm could complete this task in around half the time). This didn’t sit well with Benn.
 The way it was taught to me, the process seemed clunky and manually intensive,” Benn recalls. He knew that Excel has a feature called macros that allows users to automate common tasks. Benn read articles on the topic and soon put together a new worksheet, wired up with a series of these macros that could take the six-hour process of manual data manipulation and replace it, essentially, with a button click. A report-writing process that originally took him a full workday could now be reduced to less than an hour.
 

@@ -1,0 +1,17 @@
+<div class="o-title-bar__subnav">
+
+      {%- for link in site.navbar-links -%}
+        
+        <a
+      href="{{ link[1] | relative_url }}"
+      >
+      {{ link[0] }}
+    </a>
+         
+        
+      {%- endfor -%}
+   
+    
+
+    
+  </div>

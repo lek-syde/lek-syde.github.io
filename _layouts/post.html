@@ -1,30 +1,58 @@
 ---
-layout: todoblogdetail
+layout: blogdetail
 ---
 
-    <div class="blog__header">
-        <div class="blog__header-container">
-            <div class="blog__header-title">
+   <div class="o-title-bar o-title-bar--post">
+    <a class="o-backlink" id="back-to" href="/"></a>
 
+    <h1 class="o-title-bar__title second-font" >
+     {% if page.title %}{{ page.title }}{% else %}{% endif %}
+    </h1>
 
-                <h1 class="blog__header-title">{% if page.title %}{{ page.title }}{% else %}{% endif %}</h1>
-            </div>
-            <div class="blog__header-info">
-                <div class="blog__header-date">{{ page.date | date: "%B %-d, %Y" }}</div>
-                <div class="blog__header-links">
-                    <ul class="blog__header-link-list">
-                                <li class="blog__header-link-item"><a href="">Blog</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+    <span></span>
+  </div>
+
+  <div class="c-post__intro o-section__inner">
+    
+
+    <div class="c-post__meta">
+      <h2 class="c-post__subheading">
+        {% if page.subtitle %}{{ page.subtitle }}{% else %}{% endif %}
+      </h2>
+      
+      <div class="c-post__meta-detail">
+        <p class="c-post__date">
+         {{ page.date | date: "%B %-d, %Y" }}
+        </p>
+      </div>
+
+      <div class="c-social-share c-post__meta-share u-hide-mobile">
+        <h4 class="c-social-share__heading">
+          Share
+        </h4>
+
+        <span class="c-social-share__body">
+          <a class="c-social-share__link" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'facebookwindow','left=20,top=20,width=600,height=700,toolbar=0,resizable=1'); return false;">Facebook</a>,
+          <a class="c-social-share__link" target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}+{{ site.url }}{{ page.url }}" >Tweet</a> or
+          <button class="c-social-share__link js-clipboard" data-clipboard-text="{{ site.url }}{{ page.url }}">Copy Link</button>
+          <div class="c-social-share__success" id="clipboard_success">Copied to clipboard</div>
+        </span>
+      </div>
     </div>
-  
-   
-<div class="rta">
- {{ content }}
-</div>  
 
+ {% if page.image %}
+                                      <img
+      class="c-post__hero-img o-border"
+      src="{{ page.image }}"
+      alt=""
+      data-aos="grayscale"/>
+                                     {% endif %}
+
+
+    <div class="c-post__intro-body o-type-dropcap">
+       {{ content }}
+    </div>
+  </div>
 
 
 

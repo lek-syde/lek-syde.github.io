@@ -14,7 +14,7 @@
     
 
     <link
-      href="/assets/journal/css/main.css"
+      href="{{ site.baseurl }}/assets/journal/css/main.css"
       rel="stylesheet"
       type="text/css">
 
@@ -22,14 +22,14 @@
 
   
    
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/journal/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/journal/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/journal/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/assets/journal/favicon/site.webmanifest">
-    <link rel="mask-icon" href="/assets/journal/favicon/safari-pinned-tab.svg" color="#383a3b">
-    <link rel="shortcut icon" href="/assets/journal/favicon/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/journal/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/journal/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/journal/favicon/favicon-16x16.png">
+    <link rel="manifest" href="{{ site.baseurl }}/assets/journal/favicon/site.webmanifest">
+    <link rel="mask-icon" href="{{ site.baseurl }}/assets/journal/favicon/safari-pinned-tab.svg" color="#383a3b">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/journal/favicon/favicon.ico">
     <meta name="msapplication-TileColor" content="#383a3b">
-    <meta name="msapplication-config" content="/assets/journal/favicon/browserconfig.xml">
+    <meta name="msapplication-config" content="{{ site.baseurl }}/assets/journal/favicon/browserconfig.xml">
     <meta name="theme-color" content="#f8f7eb">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     
@@ -55,46 +55,9 @@
 
 
 <div class="o-section">
-  <div class="o-title-bar has-subnav">
-   
+  {% include journal-header-title.html %}
 
-
-    <h1 class="o-title-bar__title">
-    	<a href="/" style="text-decoration: none;">
-      Olalekan Folayan's Journal<br/>
-     </a>
-    </h1>
-
-
-  </div>
-
-
-   <div class="o-title-bar__subnav"><a
-      href="/aboutme"
-      >
-      About Me
-    </a><a
-      href="/life"
-      >
-      Life
-    </a><a
-      href="/work"
-      >
-      Work
-    </a><a
-      href="/"
-      >
-      Blog
-    </a><a
-      href="/inspiration"
-      >
-      Deep
-    </a><a
-      href="/vfx"
-      >
-      VFX[Hobbyist]
-    </a></div>
-
+   {% include journal-header-nav.html %}
 </div>
 
 
@@ -103,76 +66,7 @@
   
     
     
- <div class="c-post-list">
-  
-
-  <div class="c-post-list__posts c-post-list__posts--beta">
-
-    
-
-     <a class="c-post-list__post" href="/storage-at-your-finger-tip/" title="">
-       
-        <img
-          src="https://res.cloudinary.com/moversng/image/upload/v1593675389/TODO%20STORAGE/ogbanner1_xl2rsb.png"
-          alt=""
-          data-aos="grayscale">
-        
-        <h2 class="">Storage at your finger tip</h2>
-       
-
-        <span><p>hmm
-
-  </p></span>
-
-      </a>
-
-
-
-  
-  
-
-     <a class="c-post-list__post" href="/power-of-going-deep/" title="">
-       
-        <img
-          src="https://res.cloudinary.com/moversng/image/upload/v1593986910/deep-work-by-cal-newport-book-review_nupzh4.jpg"
-          alt=""
-          data-aos="grayscale">
-        
-        <h2 class="">Power of going deep -Excerpt</h2>
-       
-
-        <span><p>“Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.”
-
-  </p></span>
-
-      </a>
-
-
-
-  
-  
-    
-     
-
-     
-    
-      
-    
-
-     
-   
-    
-  </div>
-
- 
-</div>
-
-
-
-
-  
-                    
-
+ {{content}}
 
 
 
@@ -258,6 +152,6 @@
     
     
       
-<script src="/assets/journal/js/scripts.min.js"></script>
+<script src="{{ site.baseurl }}/assets/journal/js/scripts.min.js"></script>
   </body>
 </html>
