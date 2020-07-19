@@ -1,7 +1,7 @@
 ---
 title: About me
-layout: journalindex
 subtitle: Why you'd want to go on a date with me
+layout: journalindex
 ---
 
 <div class="o-section c-post__intro-wrapper">
@@ -45,7 +45,7 @@ subtitle: Why you'd want to go on a date with me
 <img
       class="c-post__hero-img o-border"
       src="https://res.cloudinary.com/moversng/image/upload/v1593966434/personnal/IMG_8803_zauytx.jpg"
-     alt="Dishoom Birmingham café interior"
+     alt=""
      data-aos="grayscale" style="height: 500px;">
 
    <div class="c-post__intro-body o-type-dropcap">
