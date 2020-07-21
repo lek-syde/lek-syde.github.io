@@ -8,7 +8,7 @@ image: https://www.power-technology.com/wp-content/uploads/sites/7/2017/09/eon-6
 
 <p>Smart Energy encompasses the entire energy chain from ensuring the right amount of energy is generated to meet the demand but that fuel isn't wasted by creating an oversupply.
 
-To reach this level we would need to understand the consumption profiles of users and this would in turn influence pricing. 
+To reach this level, we would need to understand the consumption profiles of users and this would in turn influence pricing. 
 
 </p>
 
@@ -19,7 +19,7 @@ Countries like Germany are well on their way to deployment of Smart energy meter
 Yes, we might not be generating enough power as of yet, but what are we doing with what we are currently generating. 
 we need to look at how we can generate as well as distribute efficiently. 
 
-I can only hope would get there soon. 
+I can only hope we get there soon. 
 
 CWG (Computer Warehouse Group) is saying they have a solution, I believe we can look into
 <a href="https://www.vanguardngr.com/2018/09/poor-power-distribution-smart-metering-to-the-rescue/">Smart metering to the rescue</a> 
