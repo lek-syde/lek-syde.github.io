@@ -1,7 +1,7 @@
 ---
 title: SEO - Behind the scenes
 date: 2020-07-21 12:25:00 +01:00
-image: "/uploads/olalekan-folayan's-journal-pagerank.png"
+image: uploads/olalekan-folayan's-journal-pagerank.png
 ---
 
 <p>Everybody wants to appear on the first page of google search results and frankly, I think every business should consider having measures in place for effective SEO </p> 
