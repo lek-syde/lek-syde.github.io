@@ -8,7 +8,9 @@ image: uploads/olalekan-folayan's-journal-pagerank.png
 Page Rank is the algorithm at the heart of google search engine. Page rank in itself is not a search algorithm but a ranking algorithm.
 What happens is, when you type a query into a search engine, there are literally millions of websites that match that query. what page rank does is to rank these pages (websites) such that the one at the top is one you are most likely to be interested in.
 
-> Page rank is still one of the reasons why Google search engine is on better than other search engines
+> **Page rank is still one of the reasons why Google search engine is on better than other search engines.**
+
+
 
 So how does page rank work?
 We can illustrate how by painting a scenario of players playing on a football field. where the players are the pages (websites) and pass to these players are the web links (external links)
