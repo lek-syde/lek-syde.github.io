@@ -11,8 +11,8 @@ What happens is, when you type a query into a search engine, there are literally
 > **Page rank is still one of the reasons why Google search engine is on better than other search engines.**
 
 
-
-So how does page rank work?
+<p>
+So how does page rank work?</p>
 We can illustrate how by painting a scenario of players playing on a football field. where the players are the pages (websites) and pass to these players are the web links (external links)
 
 ![olalekan-folayan's-journal-pagerank.png](/uploads/olalekan-folayan's-journal-pagerank.png)
