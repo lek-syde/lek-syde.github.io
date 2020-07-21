@@ -4,7 +4,7 @@ date: 2020-07-21 09:29:00 +01:00
 image: https://www.power-technology.com/wp-content/uploads/sites/7/2017/09/eon-600.jpg
 ---
 
-<p>I have really been looking at the concept of smart energy and the benefits it can offer to my home country Nigeria. </p>
+<p>I have really been looking at the concept of smart energy and the benefits it can offer to my country Nigeria. </p>
 
 <p>Smart Energy encompasses the entire energy chain from ensuring the right amount of energy is generated to meet the demand but that fuel isn't wasted by creating an oversupply.
 
