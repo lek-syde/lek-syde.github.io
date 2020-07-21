@@ -21,4 +21,4 @@ we need to look at how we can generate as well as distribute efficiently.
 I can only hope would get there soon. 
 
 CWG (Computer Warehouse Group) is saying they have a solution, I believe we can look into
-<a href="<a href="https://www.vanguardngr.com/2018/09/poor-power-distribution-smart-metering-to-the-rescue/">Smart metering to the rescue</a> 
+<a href="https://www.vanguardngr.com/2018/09/poor-power-distribution-smart-metering-to-the-rescue/">Smart metering to the rescue</a> 
