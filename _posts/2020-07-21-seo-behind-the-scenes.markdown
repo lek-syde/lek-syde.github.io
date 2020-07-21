@@ -12,6 +12,11 @@ What happens is when you type a query into a search engine, there are literally 
 how does page rank work?
 we can illustrate how by painting a scenario of players playing on a football field. where the players are the pages (websites) and pass to these players are the web links (external links)
 
-<img src="https://res.cloudinary.com/moversng/image/upload/v1595334022/Olalekan-folayan_s-journal-page-rank_ht5xy6.png" width=100%/>
+<img src="https://res.cloudinary.com/moversng/image/upload/v1595334022/Olalekan-folayan_s-journal-page-rank_ht5xy6.png" width="100%"/>
+
+generally speaking, the page rank would give preference (higher rank) to a website if it has a lot of links coming from other websites. so in the case of a football field, the player that gets more passes from the rest of the team would be ranked higher.
+
+its also not a
+ 
 
 
