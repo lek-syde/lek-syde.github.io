@@ -14,9 +14,13 @@ we can illustrate how by painting a scenario of players playing on a football fi
 
 ![Olalekan-folayan's-journal-page-rank.png](/uploads/Olalekan-folayan's-journal-page-rank.png)
 
-generally speaking, the page rank would give preference (higher rank) to a website if it has a lot of links coming from other websites. so in the case of a football field, the player that gets more passes from the rest of the team would be ranked higher.
+Generally speaking, the page rank would give preference (higher rank) to a website if it has a lot of links coming from other websites. so in the case of a football field, the player that gets more passes from the rest of the team would be ranked higher.
 
-its also not a
- 
+There is also a catch as page rank also gives more weight to links from a website that has a higher page rank itself.
+
+so a pass from a popular player (say Lionel Messi 🐐) would worth more than a pass from a player that hardly gets the ball in the game.
+
+
+
 
 
