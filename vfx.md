@@ -8,7 +8,7 @@ use-site-title: true
   
 
   <div class="c-post-list__posts c-post-list__posts--beta" style="border-top: none;">
-{% assign numPosts = site.tags.work | size %}
+{% assign numPosts = site.tags.vfx | size %}
 {% if numPosts == 0 %}
     <p>No posts...yet. Working on it please check back soon 🙂 </p>
 {% endif %}
