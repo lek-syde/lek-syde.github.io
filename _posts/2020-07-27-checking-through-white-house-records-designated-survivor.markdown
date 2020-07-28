@@ -7,6 +7,8 @@ image: https://m.media-amazon.com/images/M/MV5BYzI0ZGU0OTMtYzdjNy00NDIxLTljZGQtN
 
 Emily Rhodes, Secretary Tom Kirkman's chief of staff tries to find out who made a call out of the white house.
 
+They simulated a screen that shows a faux log records and later singled out the culprit.
+
 <br/>
 
 <center>
@@ -15,7 +17,8 @@ Emily Rhodes, Secretary Tom Kirkman's chief of staff tries to find out who made 
 
 
 
-Recreated screen cast
+Recreated screencast
+<br/>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i2m7wiwnNf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
