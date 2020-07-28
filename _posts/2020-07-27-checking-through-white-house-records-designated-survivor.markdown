@@ -17,7 +17,9 @@ They simulated a screen that shows faux log records and later singled out the cu
 
 
 <br/>
+
 Recreated screencast
+
 <br/>
 
 <center>
