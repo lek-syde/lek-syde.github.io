@@ -5,7 +5,7 @@ tags: vfx
 image: https://m.media-amazon.com/images/M/MV5BYzI0ZGU0OTMtYzdjNy00NDIxLTljZGQtNjJlNTQzZTlmZmVmXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SY1000_CR0,0,1492,1000_AL_.jpg
 ---
 
-The agent ( is trying to check through the white house log files to ascertain the identity
+Emily Rhodes, Secretary Tom Kirkman's chief of staff tries to find out who made a call out of the white house.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mny_P4rl3Io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
