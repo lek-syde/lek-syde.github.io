@@ -12,7 +12,7 @@ They simulated a screen that shows faux log records and later singled out the cu
 <br/>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mny_P4rl3Io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%"  src="https://www.youtube.com/embed/Mny_P4rl3Io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
@@ -23,5 +23,5 @@ Recreated screencast
 <br/>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i2m7wiwnNf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%"  src="https://www.youtube.com/embed/i2m7wiwnNf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
