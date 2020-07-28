@@ -1,5 +1,5 @@
 ---
-title: Checking through white house records- Designated survivor
+title: VFX - Checking through white house records- Designated survivor
 date: 2020-07-27 15:16:00 +01:00
 tags: vfx
 image: https://m.media-amazon.com/images/M/MV5BYzI0ZGU0OTMtYzdjNy00NDIxLTljZGQtNjJlNTQzZTlmZmVmXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SY1000_CR0,0,1492,1000_AL_.jpg
