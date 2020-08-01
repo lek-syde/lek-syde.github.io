@@ -3,7 +3,7 @@ title: June Wisse Website design
 date: 2020-08-01 22:02:00 +01:00
 tags:
 - work
-image: "/uploads/Screen%20Shot%202020-08-01%20at%2010.01.50%20PM.png"
+image: "/uploads/www.junewisse.com_(Laptop%20with%20HiDPI%20screen)%20(1).png"
 subtitle: Web design project for 6-year-Old supermodel June Wisse
 ---
 
