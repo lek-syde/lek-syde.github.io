@@ -15,7 +15,7 @@ Technologies.
 <p>JPA</p>
 <p>Mail chimp integration.</p>
 <p>Ruby (news.strategyhut.com)</p>
-<p>Java Spring (backend)</p>
+<p>Java Spring (Backend)</p>
 <p>Mysql (database)</p>
 
 visit website- [link](https://www.strategyhut.com/)
