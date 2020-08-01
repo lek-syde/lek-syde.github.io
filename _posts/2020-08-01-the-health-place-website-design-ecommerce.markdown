@@ -1,6 +1,8 @@
 ---
 title: The Health Place Website Design - Ecommerce
 date: 2020-08-01 22:34:00 +01:00
+tags:
+- work
 image: "/uploads/www.thehealthplaceafrica.com_(Laptop%20with%20HiDPI%20screen)%20(1).png"
 subtitle: Prioritizing Health over profit
 ---
