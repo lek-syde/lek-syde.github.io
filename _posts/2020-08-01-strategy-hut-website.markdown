@@ -10,11 +10,10 @@ image: "/uploads/Screen%20Shot%202020-08-01%20at%209.19.38%20PM.png"
 Web design project for an innovation-driven consultancy focused agency that focuses on creating value for the key players of Africa's development and its economic growth.
 
 Technologies.
-HTML/CSS
-javascript
-Hibernate
-JPA
-Mail chimp integration.
-Jekyll (news.strategyhut.com)
-Java Spring (backend)
-Mysql (database)
+<p>HTML/CSS</p>
+<p>Javascript</p>
+<p>JPA</p>
+<p>Mail chimp integration.</p>
+<p>Jekyll (news.strategyhut.com)</p>
+<p>Java Spring (backend)</p>
+<p>Mysql (database)</p>
