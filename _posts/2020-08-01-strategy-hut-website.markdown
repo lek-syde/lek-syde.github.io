@@ -14,7 +14,7 @@ Technologies.
 <p>Javascript</p>
 <p>JPA</p>
 <p>Mail chimp integration.</p>
-<p>Jekyll (news.strategyhut.com)</p>
+<p>Ruby (news.strategyhut.com)</p>
 <p>Java Spring (backend)</p>
 <p>Mysql (database)</p>
 
