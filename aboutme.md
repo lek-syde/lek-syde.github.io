@@ -21,6 +21,7 @@ layout: journalindex
       <h2 class="c-post__subheading">
         Why you should buy me coffee ☕️
       </h2>
+<p>I’m Olalekan Folayan, I have a passion for football, efficiency, and technology. Stumbled upon programming at age 18 (still wish it was earlier) and i have not looked back ever since.</p>
       
    <div class="c-post__meta-detail">
         <p class="c-post__date">
