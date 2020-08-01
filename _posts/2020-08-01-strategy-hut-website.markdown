@@ -7,7 +7,7 @@ subtitle: A mission to change the global perception of African brands and instit
 image: "/uploads/Screen%20Shot%202020-08-01%20at%209.19.38%20PM.png"
 ---
 
-Web design project for an innovation-driven consultancy focused agency on creating value for the key players of Africa's development and its economic growth.
+Web design project for an innovation-driven consultancy focused agency that focuses on creating value for the key players of Africa's development and its economic growth.
 
 Technologies
 
