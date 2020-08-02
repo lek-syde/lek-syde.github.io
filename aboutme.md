@@ -19,7 +19,7 @@ layout: journalindex
 
    <div class="c-post__meta">
       <h2 class="c-post__subheading">
-        Why you should buy me coffee ☕️ </br>
+        Why you should buy me coffee ☕️ <br/>
 I’m Olalekan Folayan, I have a passion for football, efficiency, and technology. Stumbled upon programming at age 18 (still wish it was earlier) and i have not looked back ever since.
       </h2>
 
