@@ -20,7 +20,7 @@ layout: journalindex
    <div class="c-post__meta">
       <h2 class="c-post__subheading">
         
-I’m Olalekan Folayan, I have a passion for football, efficiency, and technology. Stumbled upon programming at age 18 (still wish it was earlier) and i have not looked back ever since.
+I’m Olalekan Folayan, I have a passion for football, efficiency, and technology. Stumbled upon programming at age 18 (still wish it was earlier) and I have not looked back ever since.
       </h2>
 
 
@@ -32,18 +32,7 @@ I’m Olalekan Folayan, I have a passion for football, efficiency, and technolog
     </div>
 
 
-   <div class="c-social-share c-post__meta-share ">
-        <h4 class="c-social-share__heading">
-          Share
-    </h4>
-
-   <span class="c-social-share__body">
-          <a class="c-social-share__link" href="https://www.facebook.com/sharer/sharer.php?u={{ site.baseurl }}/aboutme/" onclick="window.open(this.href, 'facebookwindow','left=20,top=20,width=600,height=700,toolbar=0,resizable=1'); return false;">Facebook</a>,
-          <a class="c-social-share__link" href="https://twitter.com/home?status={{ site.baseurl }}/aboutme/" onclick="window.open(this.href, 'twitterwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">Tweet</a> or
-          <button class="c-social-share__link js-clipboard" data-clipboard-text="{{ site.baseurl }}/aboutme/">Copy Link</button>
-          <div class="c-social-share__success" id="clipboard_success">Copied to clipboard</div>
-        </span>
-     </div>
+   
    </div>
 
 <img
@@ -53,7 +42,7 @@ I’m Olalekan Folayan, I have a passion for football, efficiency, and technolog
      data-aos="grayscale" style="height: 500px;">
 
    <div class="c-post__intro-body">
-    <center> <h2>Technology Used in Development Includes: </h2></center>
+    <center> <h2>Technology Used in Development </h2></center>
 <p>
 HTML
 
