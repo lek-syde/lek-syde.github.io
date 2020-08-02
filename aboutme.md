@@ -30,7 +30,7 @@ I’m Olalekan Folayan, I have a passion for football, efficiency, and technolog
           Last Updated July 23' 20
         </p>
     </div>
-<h2>Technology Used in Development Includes:</h2>
+
 
    <div class="c-social-share c-post__meta-share ">
         <h4 class="c-social-share__heading">
@@ -53,7 +53,7 @@ I’m Olalekan Folayan, I have a passion for football, efficiency, and technolog
      data-aos="grayscale" style="height: 500px;">
 
    <div class="c-post__intro-body o-type-dropcap">
-     
+     <h2>Technology Used in Development Includes: </h2>
    </div>
  
 
