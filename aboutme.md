@@ -54,6 +54,17 @@ I’m Olalekan Folayan, I have a passion for football, efficiency, and technolog
 
    <div class="c-post__intro-body">
     <center> <h2>Technology Used in Development Includes: </h2></center>
+<p>HTML
+
+CSS
+
+Vanilla JavaScript
+
+Bootstrap
+
+WordPress
+
+Squarespace</p>
    </div>
  
 
