@@ -52,8 +52,8 @@ I’m Olalekan Folayan, I have a passion for football, efficiency, and technolog
      alt=""
      data-aos="grayscale" style="height: 500px;">
 
-   <div class="c-post__intro-body o-type-dropcap">
-     <h2>Technology Used in Development Includes: </h2>
+   <div class="c-post__intro-body">
+    <center> <h2>Technology Used in Development Includes: </h2></center>
    </div>
  
 
