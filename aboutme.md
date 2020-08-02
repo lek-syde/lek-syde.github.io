@@ -57,9 +57,20 @@ WordPress
 Squarespace</p>
    </div>
  
+<center> <h2>Other Tech/Tools Used in Development </h2></center>
 
+    <p>
+Google Firebase
 
-    
+Object-Oriented Programming
+
+The MVC Design Pattern
+
+GIT Version Control
+
+GitHub
+
+Command Line</p>
   
     
      
