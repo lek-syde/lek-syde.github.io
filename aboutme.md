@@ -23,12 +23,14 @@ layout: journalindex
 I’m Olalekan Folayan, I have a passion for football, efficiency, and technology. Stumbled upon programming at age 18 (still wish it was earlier) and i have not looked back ever since.
       </h2>
 
+
       
    <div class="c-post__meta-detail">
         <p class="c-post__date">
           Last Updated July 23' 20
         </p>
     </div>
+<h2>Technology Used in Web Development Includes:</h2>
 
    <div class="c-social-share c-post__meta-share ">
         <h4 class="c-social-share__heading">
