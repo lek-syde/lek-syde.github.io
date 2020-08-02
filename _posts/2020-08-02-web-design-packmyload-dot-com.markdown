@@ -1,6 +1,8 @@
 ---
 title: Web design -packmyload.com
 date: 2020-08-02 01:04:00 +01:00
+tags:
+- work
 image: https://res.cloudinary.com/moversng/image/upload/q_auto/v1596326628/www.packmyload.com__Laptop_with_HiDPI_screen_1_heeaiq.png
 subtitle: Moving as easy as breathing
 ---
