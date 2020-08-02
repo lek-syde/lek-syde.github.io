@@ -59,7 +59,7 @@ Squarespace</p>
  
 <center> <h2>Other Tech/Tools Used in Development </h2></center>
 
-    <p>
+<p>
 Google Firebase
 
 Object-Oriented Programming
@@ -70,7 +70,9 @@ GIT Version Control
 
 GitHub
 
-Command Line</p>
+Command Line
+
+</p>
   
     
      
