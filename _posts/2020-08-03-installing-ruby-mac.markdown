@@ -13,9 +13,9 @@ I felt I dive deeper into ruby ([ruby on rails](https://rubyonrails.org/)) after
 
 so here are the commands you need to run to get you started.  
 
-<center style="width="100%">
+<p>
 <script src="https://gist.github.com/lek-syde/34e4aa00bf670ee97b03380b7cd95e1e.js"></script>
-</center>
+</p>
 
 Replace <user> with your username
 
