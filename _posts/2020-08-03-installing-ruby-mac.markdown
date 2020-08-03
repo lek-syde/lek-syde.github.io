@@ -11,7 +11,7 @@ I really hope this guide helps.
 [Ruby ](https://www.ruby-lang.org/en/) is a great programming language for developing complex web applications. (makes it look like magic!). 
 I felt I dive deeper into ruby ([ruby on rails](https://rubyonrails.org/)) after observing the ease with which you can do some much very quickly with very little code.
 
-so here are the commands you need to run to get you started. 
+so here are the commands you need to run to get you started.  
 
 <center>
 <script src="https://gist.github.com/lek-syde/34e4aa00bf670ee97b03380b7cd95e1e.js"></script>
@@ -19,7 +19,8 @@ so here are the commands you need to run to get you started.
 
 Replace <user> with your username
 
-That's it and you are up and running!
+That's it and you are up and running! 
+happy coding
 
 
 
