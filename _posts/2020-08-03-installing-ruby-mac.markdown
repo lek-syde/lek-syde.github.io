@@ -25,7 +25,7 @@ leksyde$ sudo apt-get install ruby-dev zlib1g-dev liblzma-dev build-essential pa
 leksyde$ rvm gemset list
 leksyde$ gem install rails
 leksyde$ rails -v
-
+```
 
 Replace <user> with your username
 
