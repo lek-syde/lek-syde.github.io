@@ -27,6 +27,10 @@ leksyde$ gem install rails
 leksyde$ rails -v
 ```
 
+```shell
+foo@bar:~$ whoami
+foo
+
 Replace <user> with your username
 
 That's it and you are up and running!
