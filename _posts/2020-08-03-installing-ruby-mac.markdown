@@ -1,6 +1,7 @@
 ---
 title: Installing Ruby - MAC
 date: 2020-08-03 16:41:00 +01:00
+image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fudemy-images.udemy.com%2Fcourse%2F750x422%2F769314_cb28_3.jpg
 ---
 
 I recently tried installing ruby on my mac and faced a lot of challenges during the install. 
