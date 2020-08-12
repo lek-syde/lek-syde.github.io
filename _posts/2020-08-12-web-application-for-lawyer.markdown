@@ -11,8 +11,7 @@ Research legal advice
 Read articles, advice from lawyers, and questions and answers by topic.
 
 
-
-<img src="https://res.cloudinary.com/moversng/image/upload/v1597259985/todojustice.herokuapp.com__iPhone_X_tlwnsq.png" />
+mockup coming soon
 
 <p>user profile</p>
 <p>Responsive Bulma design </p>
@@ -25,4 +24,7 @@ Built using Ruby on rails, Amazon s3...
 
 
 Github Link:
-[Link](https://github.com/lek-syde/justicepl)
+[Source Link](https://github.com/lek-syde/justicepl)
+
+Website Link
+[Website Link](https://todojustice.herokuapp.com/)
