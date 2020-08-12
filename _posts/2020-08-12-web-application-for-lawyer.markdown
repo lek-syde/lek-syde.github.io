@@ -14,11 +14,11 @@ Read articles, advice from lawyers, and questions and answers by topic.
 
 <img src="https://res.cloudinary.com/moversng/image/upload/v1597259985/todojustice.herokuapp.com__iPhone_X_tlwnsq.png" />
 
-* user profile
-* Responsive Bulma design 
+<p>user profile</p>
+<p>Responsive Bulma design </p>
 so much more...
 
-Built using Ruby on rails
+Built using Ruby on rails, Amazon s3...
 
 
 
