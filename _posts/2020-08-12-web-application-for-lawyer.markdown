@@ -10,6 +10,7 @@ image: https://res.cloudinary.com/moversng/image/upload/q_auto/v1597259902/todoj
 Research legal advice
 Read articles, advice from lawyers, and questions and answers by topic.
 
+TODO Lawyer directory-
 
 mockup coming soon
 
