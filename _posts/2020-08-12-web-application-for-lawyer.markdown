@@ -14,4 +14,4 @@ Read articles, advice from lawyers, and questions and answers by topic.
 
 
 Github Link:
-[](https://github.com/lek-syde/justicepl)
+[Link](https://github.com/lek-syde/justicepl)
