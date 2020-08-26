@@ -11,5 +11,8 @@ image: "/uploads/lpgapp.herokuapp.com_(Laptop%20with%20HiDPI%20screen).png"
 
 This API developed to work with an imaginative IoT device attached to the LPG Cylinder would allow you monitor your gas pressure level in real-time. 
 
+Frontend  [Vaadin](https://vaadin.com/) 
+backend [Springboot](https://spring.io/)
+
 frontend- https://lpgapp.herokuapp.com/
 source code - 
