@@ -44,13 +44,26 @@ I’m Olalekan Folayan, I have a passion for football, efficiency, and technolog
    <div class="c-post__intro-body">
     <center> <h2>Technology Used in Development </h2></center>
 <p>
+JavaSE
+
+
+JavaFx
+
 HTML
+JavaEE
+
+Springboot,
+Hibernate,
 
 CSS
 
 Vanilla JavaScript
 
 Bootstrap
+
+Shopify
+
+RubyonRails
 
 WordPress
 
@@ -71,6 +84,9 @@ GIT Version Control
 GitHub
 
 Command Line
+
+Postman
+
 
 </p>
   
