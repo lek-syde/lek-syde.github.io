@@ -1,5 +1,5 @@
 ---
-title: Web Application for lawyer
+title: Web Application for lawyers
 date: 2020-08-12 20:16:00 +01:00
 tags:
 - work
