@@ -95,7 +95,9 @@ Command Line
 
 Postman
 
-The Microservices
+Microservices Architecture
+
+Cloudinary
 
 Spring Cloud
 
