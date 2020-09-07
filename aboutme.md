@@ -55,9 +55,9 @@ Bootstrap
 WordPress
 
 Squarespace</p>
-   </div>
- 
-<center> <h2>Other Tech/Tools Used in Development </h2></center>
+
+
+<center> <h2>Other Tech/Tools Used in Development</h2></center>
 
 <p>
 Google Firebase
@@ -74,6 +74,10 @@ Command Line
 
 </p>
   
+   </div>
+ 
+
+
     
      
     
