@@ -99,7 +99,7 @@ Microservices Architecture
 
 Cloudinary
 
-Spring Cloud
+SpringCloud
 
 AWS
 
