@@ -37,8 +37,8 @@ I’m Olalekan Folayan, I have a passion for football, efficiency, and technolog
 
 <img
       class="c-post__hero-img o-border"
-      src="https://res.cloudinary.com/moversng/image/upload/v1593966434/personnal/IMG_8803_zauytx.jpg"
-     alt=""
+      src="https://res.cloudinary.com/moversng/image/upload/v1600216547/WhatsApp_Image_2020-09-15_at_1.27.42_PM_jsaxpy.jpg"
+     alt="My Picture"
      data-aos="grayscale" style="height: 500px;">
 
    <div class="c-post__intro-body">
