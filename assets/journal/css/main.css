@@ -131,7 +131,7 @@ mark {
     display: flex;
     justify-content: center;
     color: white;
-    max-width: 100vw;
+    
 }
 
 code, kbd, pre, samp {
