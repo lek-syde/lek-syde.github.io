@@ -20,7 +20,8 @@ JPA and Hibernate provide an easy way to implement auditing in your projects wit
 
 We begin by including the following maven dependencies, with the second being optional if you are implementing with mysql.
 
-`<dependencies>
+```java
+<dependencies>
     <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -31,7 +32,9 @@ We begin by including the following maven dependencies, with the second being op
         <artifactId>mysql-connector-java</artifactId>
         <scope>runtime</scope>
     </dependency>
-</dependencies>`
+</dependencies>
+```
+
 
 
 
