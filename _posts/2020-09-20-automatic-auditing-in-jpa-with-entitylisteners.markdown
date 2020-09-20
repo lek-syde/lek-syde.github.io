@@ -20,6 +20,9 @@ JPA and Hibernate provide an easy way to implement auditing in your projects wit
 
 We begin by including the following maven dependencies, with the second being optional if you are implementing with MySQL.
 
+
+
+
 ```java
 <dependencies>
     <dependency>
