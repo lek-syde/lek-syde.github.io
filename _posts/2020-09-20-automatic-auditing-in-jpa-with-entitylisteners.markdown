@@ -21,7 +21,6 @@ with JPA and Hibernate provides easily implement auditing in your projects with 
 
 we begin by including the following maven dependencies, with the second being optional if you are implementing with mysql
 
- <div class="c-post__intro-body">
 > ```java
 <dependencies>
     <dependency>
@@ -36,4 +35,3 @@ we begin by including the following maven dependencies, with the second being op
     </dependency>
 </dependencies>
 ```
-</div>
