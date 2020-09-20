@@ -12,9 +12,20 @@ I felt I dive deeper into ruby ([ruby on rails](https://rubyonrails.org/)) after
 
 so here are the commands you need to run to get you started.
 
-<p>
-<script src="https://gist.github.com/lek-syde/34e4aa00bf670ee97b03380b7cd95e1e.js"></script>
-</p>
+```shell
+leksyde$ \curl -sSL https://get.rvm.io | bash
+leksyde$ source /home/<user>/.rvm/scripts/rvm
+leksyde$ rvm -v
+leksyde$ rvm install ruby
+leksyde$ ruby -v
+leksyde$ sudo apt-get install rubygems
+leksyde$ gem update
+leksyde$ sudo apt-get install ruby-dev zlib1g-dev liblzma-dev build-essential patch
+leksyde$ rvm gemset list
+leksyde$ gem install rails
+leksyde$ rails -v
+```
+
 
 Replace <user> with your username
 
