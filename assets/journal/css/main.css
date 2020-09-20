@@ -131,12 +131,15 @@ mark {
     display: flex;
     justify-content: center;
     color: white;
+ 
     
 }
 
 code, kbd, pre, samp {
   font-family: monospace, serif;
-  font-size: 1em; }
+  font-size: 1em; 
+  display: block;
+}
 
 pre {
   white-space: pre-wrap; }
