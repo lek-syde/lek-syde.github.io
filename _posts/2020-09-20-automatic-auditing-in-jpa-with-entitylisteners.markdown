@@ -1,6 +1,8 @@
 ---
 title: Automatic Auditing in JPA with EntityListeners
 date: 2020-09-20 09:42:00 +01:00
+categories:
+- work
 image: "/uploads/entityManagerFactory(EntityManagerFactoryBuilder).png"
 ---
 
