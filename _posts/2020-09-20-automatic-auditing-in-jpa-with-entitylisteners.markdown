@@ -16,3 +16,18 @@ For business scenarios, Imagine an employee deletes a record and denies it, a qu
 Implementing this manually can get very cumbersome quickly as you would have to write lots of code especially for all crud operations and this means less maintainability 
 
 with JPA and Hibernate provides easily implement auditing in your projects with JPA Entity Listeners
+
+```java
+<dependencies>
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-jpa</artifactId>
+    </dependency>
+
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <scope>runtime</scope>
+    </dependency>
+</dependencies>
+```
