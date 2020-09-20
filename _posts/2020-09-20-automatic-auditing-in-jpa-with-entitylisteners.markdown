@@ -11,13 +11,14 @@ In most business/web applications auditing would simply mean logging and keeping
 
 Auditing when implemented properly helps us in maintaining history records which can later help us in tracking user activities. If implemented properly auditing can also provide us similar functionality like version control systems and can be a very important security feature.
 
-For business scenarios, Imagine an employee deletes a record and denies it, a quick lookup with the application audit log would reveal who and when. 
+For business scenarios, Imagine an employee deletes a record and denies it, a quick lookup with the application audit log would reveal who did and when. 
+Or it could just allow us to remember when a user signed up and to send a birthday🎂 greeting card. 
 
 Implementing this manually can get very cumbersome quickly as you would have to write lots of code especially for all crud operations and this means less maintainability 
 
 with JPA and Hibernate provides easily implement auditing in your projects with JPA Entity Listeners
 
-```java
+> ```java
 <dependencies>
     <dependency>
         <groupId>org.springframework.boot</groupId>
