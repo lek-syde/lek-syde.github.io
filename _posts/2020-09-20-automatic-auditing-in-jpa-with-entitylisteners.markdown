@@ -18,6 +18,9 @@ Implementing this manually can get very cumbersome quickly as you would have to 
 
 with JPA and Hibernate provides easily implement auditing in your projects with JPA Entity Listeners
 
+
+we begin by including the following maven dependencies, with the second being optional if you are implementing with mysql
+
 > ```
 <dependencies>
     <dependency>
