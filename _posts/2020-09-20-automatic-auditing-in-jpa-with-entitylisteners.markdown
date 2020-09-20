@@ -170,5 +170,31 @@ class SpringSecurityAuditorAwareimpl implements AuditorAware<User> {
 
 ```
 
+Finally, we need to enable @EnableJpaAuditing(auditorAwareRef = "auditorAware") in our config class. or in our main class springboot starter class. we also need to register the AuditorAware<String>  bean
 
+
+ ```java
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+import org.springframework.data.domain.AuditorAware;
+import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
+
+import net.guides.springboot.springboot2jpaauditing.audit.AuditorAwareImpl;
+
+@SpringBootApplication
+@EnableJpaAuditing(auditorAwareRef = "auditorAware")
+public class AuditingApplication {
+
+    @Bean
+    public AuditorAware<String> auditorAware() {
+        return new AuditorAwareImpl();
+    }
+
+    public static void main(String[] args) {
+        SpringApplication.run(Springboot2JpaAuditingApplication.class, args);
+    }
+}
+
+```
 
