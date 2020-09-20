@@ -170,7 +170,7 @@ class SpringSecurityAuditorAwareimpl implements AuditorAware<User> {
 
 ```
 
-Finally, we need to enable @EnableJpaAuditing(auditorAwareRef = "auditorAware") in our config class. or in our main class springboot starter class. we also need to register the AuditorAware<String>  bean
+Finally, we need to enable @EnableJpaAuditing(auditorAwareRef = "auditorAware") in our config class. or in our main class springboot starter class. we also need to let our application to be aware of our implementation the AuditorAware<String>  bean
 
 
  ```java
@@ -198,3 +198,11 @@ public class AuditingApplication {
 
 ```
 
+And we are done!.
+
+so for every entity that extends the Auditor Class we get these four additional fields.
+
+![Screen Shot 2020-09-21 at 12.30.35 AM.png](/uploads/Screen%20Shot%202020-09-21%20at%2012.30.35%20AM.png)
+
+ 
+Happy Coding🙂
