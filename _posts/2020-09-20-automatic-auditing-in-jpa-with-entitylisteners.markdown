@@ -18,7 +18,7 @@ Implementing this manually can get very cumbersome quickly as you would have to 
 
 with JPA and Hibernate provides easily implement auditing in your projects with JPA Entity Listeners
 
-> ```java
+> ```
 <dependencies>
     <dependency>
         <groupId>org.springframework.boot</groupId>
