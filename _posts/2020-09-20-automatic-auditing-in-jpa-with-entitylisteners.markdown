@@ -19,8 +19,8 @@ Implementing this manually can get very cumbersome quickly as you would have to 
 JPA and Hibernate provide an easy way to implement auditing in your projects with JPA Entity Listeners.
 
 We begin by including the following maven dependencies, with the second being optional if you are implementing with mysql.
-
-
+<p>
+<code>
 ```javascript
 <dependencies>
     <dependency>
@@ -35,8 +35,8 @@ We begin by including the following maven dependencies, with the second being op
     </dependency>
 </dependencies>
 ```
-
-
+</code>
+</p>
 
 
 
