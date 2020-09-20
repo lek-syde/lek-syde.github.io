@@ -86,7 +86,6 @@ public abstract class Auditable<U> {
 
 ```
 
-<br/>
 
 Next we, Create a JPA Entity which extends Auditable Class or extend our existing entities. 
 
@@ -131,6 +130,44 @@ public class Product extends Auditable<String>{
 //getters and setters
 
 }
+```
+
+We would also need to help the listners in figuring who the current user is - Auditing the Author
+
+```java
+import java.util.Optional;
+
+import org.springframework.data.domain.AuditorAware;
+
+public class AuditorAwareImpl implements AuditorAware<String> {
+
+    @Override
+    public Optional<String> getCurrentAuditor() {
+        return Optional.of("lekan");
+        // Use below commented code when will use Spring Security.
+    }
+}
+
+```
+
+If you have implemented Spring security and would love to add it you can ovveride like this
+
+
+```java
+class SpringSecurityAuditorAwareimpl implements AuditorAware<User> {
+
+ public User getCurrentAuditor() {
+
+  Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+
+  if (authentication == null || !authentication.isAuthenticated()) {
+   return null;
+  }
+
+  return ((MyUserDetails) authentication.getPrincipal()).getUser();
+ }
+}
+
 ```
 
 
