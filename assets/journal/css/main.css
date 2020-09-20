@@ -9343,5 +9343,15 @@ input:-webkit-autofill:active {
   .printable .c-voucher {
     padding: 16mm; } }
 
+
+}
+.highlight{
+background-color: black;
+ 
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
 .dev-shopify {
   margin: 0 auto !important; }
