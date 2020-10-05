@@ -7,15 +7,15 @@ image: https://res.cloudinary.com/moversng/image/upload/q_auto/v1601895475/monol
 ---
 
 When you look at large systems, it's generally easy to recognize patterns and just like code level patterns. system-level patterns also greatly impact the overall system.
-Monolith systems the entire program is one big specific unit and this is both the strength and weakness of this pattern. 
-It is fast, easy but the sheer bulk of the program can get very overwhelming quickly. 
-testing, deployment, debugging is a very painful journey and this can take days, weeks, or even months.
-this pattern is particularly not advised in an agile environment as this methodology thrives on delivering results very quickly to stakeholders by results that include occasional CHANGES which a monolith system rarely handles well.
+In Monolith systems, the entire program is one big specific unit and this is both the strength and weakness of this pattern. 
+It is fast and easy but the sheer bulk of the program can get very overwhelming quickly. 
+Testing, deployment, debugging is a very painful journey and this can take days, weeks, or even months.
+This pattern is particularly not advised in an agile environment as this methodology thrives on delivering results very quickly to stakeholders by results that include occasional CHANGES which a monolith system rarely handles well.
 
-The Big Bowl of mud is often the resulting effect of monolith systems. What usually happens is the initial small system which is started as a monolith to solve a specific small problem, (which is usually an efficient solution at that time) gradually evolves to solving more and more problems added by usually implemented by different programmers often haphazardly.
+The "Big Bowl of Mud" is often the resulting effect of monolith systems. What usually happens is the initial small system which is started as a well-stuctured monolith to solve a specific small problem, (which is usually an efficient solution at that time) gradually evolves to solving more and more problems which are usually implemented by different programmers (sometimes inexperienced) haphazardly.
 very often due to pressure from the stakeholders, the sunk-cost fallacy kicks in.
 
->  The original system should really be replaced by one that's organized properly. But people say that they've spent a fortune on the existing system, so they can't replace it.
+**>  The original system should really be replaced by one that's organized properly. But people say that they've spent a fortune on the existing system, so they can't replace it.**
 
 people imagine that the cost of replacing is the same as building it. The truth is successful companies like Microsoft, Spotify, Facebook, twitter have all replaced their core system several times.  
 
