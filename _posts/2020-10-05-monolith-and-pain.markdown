@@ -3,6 +3,7 @@ title: Monolith and pain
 date: 2020-10-05 11:05:00 +01:00
 categories:
 - work
+image: https://res.cloudinary.com/moversng/image/upload/q_auto/v1601895475/monolith-pain_mkdcc2.png
 ---
 
 When you look at large systems, it's generally easy to recognize patterns and just like code level patterns. system-level patterns also greatly impact the overall system.
