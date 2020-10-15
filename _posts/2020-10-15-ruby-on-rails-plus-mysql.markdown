@@ -17,15 +17,35 @@ if you are just starting out creating a new ruby application use
 rails new app_name -d mysql
 ```
 
-This would replace the default SQLite database gem and would add mysql the mysql gem 
-
+This would replace the default SQLite database gem and would add the MySQL gem
 ```console
 gem ‘mysql2’
 ```
 Option 2 
 For existing projects
-Simply replace/ add the mysql gem.
+Simply replace/add the MySQL gem 
 
 Step 3.
-Update your database 
+Update your database details in the config/database.yml file with your correct MySQL credentials
+
+```console
+development:
+  <<: *default
+  adapter: mysql2
+  database: [database name]
+  username: [database username]
+  password: [database password]
+```
+
+**ensure you replace with the correct details**
+
+Step 4.
+For Existing projects, you would need to run your migrations 
+```console
+rails db:migrate
+```
+
+Congratulations you are up and running with Ruby on Rails and MySQL🙂
+
+
 
