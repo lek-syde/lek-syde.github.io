@@ -7,7 +7,7 @@ This post shows you how you can connect your new or existing rails application t
 
 Step 1.
 Install MySql server on your development machine. you can do this by downloading the installer here [Mysql for Mac](https://dev.mysql.com/doc/mysql-osx-excerpt/8.0/en/osx-installation-pkg.html)
-Note: Take note of your installation credentials. ie Username and password. 
+Note: **Take note of your installation credentials. ie Username and password.** 
 A good practice would be to create a new user aside from the default root user.
 
 Step 2.
