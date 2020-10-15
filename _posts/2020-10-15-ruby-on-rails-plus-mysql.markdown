@@ -13,7 +13,7 @@ A good practice would be to create a new user aside from the default root user.
 
 Step 2.
 Option 1.
-if you are just starting out creating a new ruby application use
+if you are just starting out creating a new ruby application use the command 
 ```console
 rails new app_name -d mysql
 ```
