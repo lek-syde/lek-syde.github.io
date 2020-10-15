@@ -1,6 +1,7 @@
 ---
 title: Ruby on rails + MySQL
 date: 2020-10-15 14:07:00 +01:00
+image: https://dummyimage.com/600x400/000/fff.png&text=Working+with+MySQL+in+Ruby+on+Rails
 ---
 
 This post shows you how you can connect your new or existing rails application to use a MySQL database.
