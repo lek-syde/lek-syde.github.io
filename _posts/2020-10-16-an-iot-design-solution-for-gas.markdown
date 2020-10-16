@@ -13,8 +13,8 @@ It's a monolith that would work efficiently, it can also be scaled to a microser
 
 This service would work basically as a uber model for gas, powered by [spring cloud](https://spring.io/projects/spring-cloud#:\~:text=Spring%20Cloud%20provides%20tools%20for,distributed%20sessions%2C%20cluster%20state).) which would simplify development, deployment, and maintenance.
 
-Database adapter- MYSQL, POSTGRESQL, or any database of choice
-[Twillo](https://www.twilio.com/) can be used for messaging notifications (SMS)
+Database adapter- MYSQL, POSTGRESQL, or any database of choice. <br/>
+[Twillo](https://www.twilio.com/) can be used for messaging notifications (SMS) <br/>
 [Sendgrid](https://sendgrid.com/) for efficient email notifications.
 
 An IoT device would be placed on the LPG. it would have a GPRS/Bluetooth sensor that would constantly communicate with the system via REST API.
