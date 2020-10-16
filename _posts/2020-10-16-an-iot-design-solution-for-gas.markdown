@@ -20,6 +20,7 @@ Database adapter- MYSQL, POSTGRESQL, or any database of choice
 
 An IoT device would be placed on the LPG. it would have a GPRS/Bluetooth sensor that would constantly communicate with the system via REST API. 
 
+This solution can be implemented by small or large gas vendors. 
 
 
 
