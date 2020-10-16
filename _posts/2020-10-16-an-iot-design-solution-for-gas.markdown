@@ -7,7 +7,7 @@ subtitle: Proposed solution
 
 This is a proposed solution, with the ever-increasing rate of a gas plant explosion in Nigeria, there was on just recently [here](https://nairametrics.com/2020/10/08/breaking-gas-station-explodes-in-ipaja-lagos-claims-property-and-valuables/#:\~:text=Another%20gas%20explosion%20has%20rocked,State%20Emergency%20Agency%20(LASEMA).)
 
-I thought I might make a sketch of a possible technology-powered solution to the problem.
+I thought I make a sketch of a possible technology-powered solution to the problem.
 
 It's a monolith that would work efficiently, it can also be scaled to a microservices architecture.
 
