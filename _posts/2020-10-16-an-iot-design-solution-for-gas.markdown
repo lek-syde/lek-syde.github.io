@@ -17,6 +17,9 @@ Database adapter- MYSQL, POSTGRESQL, or any database of choice. <br/>
 [Twillo](https://www.twilio.com/) can be used for messaging notifications (SMS) <br/>
 [Sendgrid](https://sendgrid.com/) for efficient email notifications.
 
+<br/>
 An IoT device would be placed on the LPG. it would have a GPRS/Bluetooth sensor that would constantly communicate with the system via REST API.
+
+<br/>
 
 This solution can be implemented by small or large gas vendors.
