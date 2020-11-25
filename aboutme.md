@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle:
+subtitle: 
 layout: journalindex
 ---
 

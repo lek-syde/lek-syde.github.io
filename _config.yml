@@ -27,7 +27,7 @@ description: Programming and a Bunch of other stuffs!
 navbar-links:
   About: aboutme
   portfolio: work
-  Blog: "blog"
+  Blog: blog
   Books: inspiration
   VFX[Hobbyist]: vfx
 avatar: "/img/avi.png"
