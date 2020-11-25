@@ -28,8 +28,8 @@ navbar-links:
   About Me: aboutme
   Life: life
   Work: work
-  Blog: "/"
-  Deep: inspiration
+  Blog: "blog"
+  Books: inspiration
   VFX[Hobbyist]: vfx
 avatar: "/img/avi.png"
 title-img: "/img/lsvg.svg"

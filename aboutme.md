@@ -1,117 +1,58 @@
 ---
 title: About me
-subtitle: 
+subtitle:
 layout: journalindex
 ---
 
 <div class="o-section c-post__intro-wrapper">
   <div class="o-title-bar o-title-bar--post">
-    <a class="o-backlink" id="back-to" href="/"></a>
 
    <h1 class="o-title-bar__title second-font" >
-      About Me
+      👇 About Me
     </h1>
+
+    <h2 class="c-post__subheading">
+
+    I'm Olalekan Folayan, experienced certified Java developer adept at implementing ERM systems, supporting multiple data sources, highly skilled in designing, developing and maintaining desktop, web applications including performant APIs for various client applications ensuring compliance with business requirements. 
+    Proficient in streamlining processes for delivering project as per the targeted SLAs.
+
+    </h2>
 
   </div>
 
   <div class="c-post__intro o-section__inner">
-    
 
-   <div class="c-post__meta">
-      <h2 class="c-post__subheading">
-        
-I’m Olalekan Folayan, I have a passion for football, efficiency, and technology. Stumbled upon programming at age 18 (still wish it was earlier) and I have not looked back ever since.
-      </h2>
-
-
-      
-   <div class="c-post__meta-detail">
-        <p class="c-post__date">
-          Last Updated July 23' 20
-        </p>
-    </div>
-
-
-   
-   </div>
-
-<img
-      class="c-post__hero-img o-border"
-      src="https://res.cloudinary.com/moversng/image/upload/v1600216547/WhatsApp_Image_2020-09-15_at_1.27.42_PM_jsaxpy.jpg"
-     alt="My Picture"
-     data-aos="grayscale" style="height: 500px;">
-
-   <div class="c-post__intro-body">
-    <center> <h2>Technology Used in Development </h2></center>
-<p>
-JavaSE
-
-
-JavaFx
-
-HTML
-JavaEE
-
-Springboot,
-Hibernate,
-
-CSS
-
-Vanilla JavaScript
-
-Bootstrap
-
-Shopify
-
-RubyonRails
-
-WordPress
-
-Vaadin
-
-JSF
-
-Primefaces
 
 
 
-Squarespace</p>
-
-
-<center> <h2>Other Tech/Tools Used in Development</h2></center>
-
-<p>
-Google Firebase
-
-Object-Oriented Programming
-
-The MVC Design Pattern
-
-GIT Version Control
-
-GitHub
-
-Command Line
-
-Postman
-
-Microservices Architecture
-
-Cloudinary
-
-SpringCloud
-
-AWS
-
-Sketch
+   <div class="c-post__intro-body">
+   <br/>
+  <center> <h2> KEY SKILLS </h2></center>
+<p>Code development & optimization, Data & requirements analysis, debugging, Agile methodology, documentation & reporting, unit testing, process improvement. Web Application design and development. Writing and coordination.
 </p>
-  
+
+
+<center> <h2>Backend technologies </h2></center>
+<p> Java, JavaEE, Springboot, Ruby on rails, Java servlets, JAX-RS.
+ Frontend technologies: HTML, CSS, JavaScript, JSF, Primefaces, JSP, Vaadin, bootstrap, bulma, Thymeleaf, Ant design.
+</p>
+<center> <h2>Database technologies:</h2></center>
+<p> Mysql, postgresql, Hibernate, SQLite</p>
+
+<center> <h2>Platforms</h2></center>
+ <p>Pivotal Cloudfoundry, Heroku,
+Netlify, AWS, Jelastic, github, wordpress </p>
+
+
+
+<br/><br/><br/>
+
    </div>
- 
 
 
-    
-     
-    
-  
+
+
+
+
+
 </div>

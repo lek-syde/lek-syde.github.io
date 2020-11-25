@@ -1,22 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LekSyde.Github.Io</title>
+    <title>leksyde.github.io</title>
     <description>Programming and a Bunch of other stuffs!</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Storage at your finger tip</title>
+        <title>An IOT design solution for GAS</title>
         <description>
-          firstpost - 
-          hmm
+          Proposed solution - 
+          This is a proposed solution, with the ever-increasing rate of a gas plant explosion in Nigeria, there was on just recently here I thought I make a sketch of a possible technology-powered solution to the problem. It’s a monolith that would work efficiently, it can also be scaled to a...
+        </description>
+        <pubDate>Fri, 16 Oct 2020 15:07:00 +0100</pubDate>
+        <link>http://localhost:4000/an-iot-design-solution-for-gas/</link>
+        <guid isPermaLink="true">http://localhost:4000/an-iot-design-solution-for-gas/</guid>
+      </item>
+    
+      <item>
+        <title>Ruby on rails + MySQL</title>
+        <description>
+          
+          This post shows you how you can connect your new or existing rails application to use a MySQL database. Step 1. Install MySql server on your development machine. you can do this by downloading the installer here Mysql for Mac Note: Take note of your installation credentials. ie Username and...
+        </description>
+        <pubDate>Thu, 15 Oct 2020 14:07:00 +0100</pubDate>
+        <link>http://localhost:4000/ruby-on-rails-plus-mysql/</link>
+        <guid isPermaLink="true">http://localhost:4000/ruby-on-rails-plus-mysql/</guid>
+      </item>
+    
+      <item>
+        <title>Airbnb meets storage</title>
+        <description>
+          
+          Looking for affordable storage space? for personal or business. this project was developed to help provide affordable storage neighbourhood storage solutions to individuals and businesses.
+
+Website link- https://www.todoselfstorage.com/
+
+Technical Details coming soon
+
+        </description>
+        <pubDate>Thu, 15 Oct 2020 12:40:00 +0100</pubDate>
+        <link>http://localhost:4000/airbnb-meets-storage/</link>
+        <guid isPermaLink="true">http://localhost:4000/airbnb-meets-storage/</guid>
+      </item>
+    
+      <item>
+        <title>Monolith and pain</title>
+        <description>
+          
+          When you look at large systems, it’s generally easy to recognize patterns and just like code level patterns. system-level patterns also greatly impact the overall system. In Monolith systems, the entire program is one big specific unit and this is both the strength and weakness of this pattern. It is...
+        </description>
+        <pubDate>Mon, 05 Oct 2020 11:05:00 +0100</pubDate>
+        <link>http://localhost:4000/monolith-and-pain/</link>
+        <guid isPermaLink="true">http://localhost:4000/monolith-and-pain/</guid>
+      </item>
+    
+      <item>
+        <title>Automatic Auditing in JPA with EntityListeners- Spring boot</title>
+        <description>
+          
+          Auditing user data is quite a very important security feature you can implement not just for the application point of view but to ensuring the integrity of data. In most business/web applications auditing would simply mean logging and keeping track of when and who, updates, deletes, creates and inserted data...
+        </description>
+        <pubDate>Sun, 20 Sep 2020 09:42:00 +0100</pubDate>
+        <link>http://localhost:4000/automatic-auditing-in-jpa-with-entitylisteners/</link>
+        <guid isPermaLink="true">http://localhost:4000/automatic-auditing-in-jpa-with-entitylisteners/</guid>
+      </item>
+    
+      <item>
+        <title>Web Application for lawyers</title>
+        <description>
+          An Avoo and Justia Model Web Application - 
+          Research legal advice
+Read articles, advice from lawyers, and questions and answers by topic.
+
+TODO Lawyer directory-
+
+mockup coming soon
+
+user profile
+Responsive Bulma design 
+so much more…
+
+Built using Ruby on rails, Amazon s3…
+
+Github Link:
+Source Link
+
+Website Link
+Website Link
+
+        </description>
+        <pubDate>Wed, 12 Aug 2020 20:16:00 +0100</pubDate>
+        <link>http://localhost:4000/web-application-for-lawyers/</link>
+        <guid isPermaLink="true">http://localhost:4000/web-application-for-lawyers/</guid>
+      </item>
+    
+      <item>
+        <title>Installing Ruby - MAC</title>
+        <description>
+          
+          I recently tried installing ruby on my mac and faced a lot of challenges during the install. I really hope this guide helps. Ruby is a great programming language for developing complex web applications. (makes it look like magic!). I felt I dive deeper into ruby (ruby on rails) after...
+        </description>
+        <pubDate>Mon, 03 Aug 2020 16:41:00 +0100</pubDate>
+        <link>http://localhost:4000/installing-ruby-mac/</link>
+        <guid isPermaLink="true">http://localhost:4000/installing-ruby-mac/</guid>
+      </item>
+    
+      <item>
+        <title>Moving company Web Application -packmyload.com</title>
+        <description>
+          Moving as easy as breathing - 
+          Whether moving down the street, to another state, or to a new house or business address, we are here to help you with managing the stress.
+
+#mockup coming soon
+
+Source code proprietary!
+
+Website link
+
+        </description>
+        <pubDate>Sun, 02 Aug 2020 01:04:00 +0100</pubDate>
+        <link>http://localhost:4000/web-application-packmyload-dot-com/</link>
+        <guid isPermaLink="true">http://localhost:4000/web-application-packmyload-dot-com/</guid>
+      </item>
+    
+      <item>
+        <title>The Health Place Website Design - Ecommerce</title>
+        <description>
+          Prioritizing Health over profit - 
+          Our foundation is based on high quality, natural herbal products that offer results, and positively change lives. We are invested in supporting the health of our customers, our environment, and our community.
+
+        </description>
+        <pubDate>Sat, 01 Aug 2020 22:34:00 +0100</pubDate>
+        <link>http://localhost:4000/the-health-place-website-design-ecommerce/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-health-place-website-design-ecommerce/</guid>
+      </item>
+    
+      <item>
+        <title>June Wisse Website design</title>
+        <description>
+          Web design project for 6-year-Old supermodel June Wisse - 
+          June Alaare Wisse, a 6-year-old Nigerian-Dutch model, was born June 18th, 2013 in Tema, Ghana. At age 3, her remarkable modeling talent was discovered by her mom and she has been in front of a camera ever since then; posing as a muse for prominent photographers like Mofe Bamuyiwa, art...
+        </description>
+        <pubDate>Sat, 01 Aug 2020 22:02:00 +0100</pubDate>
+        <link>http://localhost:4000/june-wisse-website-design/</link>
+        <guid isPermaLink="true">http://localhost:4000/june-wisse-website-design/</guid>
+      </item>
+    
+      <item>
+        <title>Strategy Hut Website Design</title>
+        <description>
+          A mission to change the global perception of African brands and institutions. - 
+          Web design project for an innovation-driven consultancy focused agency that focuses on creating value for the key players of Africa’s development and its economic growth.
+
+Technologies.
+HTML/CSS
+Javascript
+JPA
+Mail chimp integration.
+Ruby (news.strategyhut.com)
+Java Spring (Backend)
+Mysql (database)
+
+visit website- link
+
+        </description>
+        <pubDate>Sat, 01 Aug 2020 21:37:00 +0100</pubDate>
+        <link>http://localhost:4000/strategy-hut-website/</link>
+        <guid isPermaLink="true">http://localhost:4000/strategy-hut-website/</guid>
+      </item>
+    
+      <item>
+        <title>VFX - Checking through white house records- Designated survivor</title>
+        <description>
+          
+          Emily Rhodes, Secretary Tom Kirkman’s chief of staff tries to find out who made a call out of the white house.
+
+They simulated a screen that shows faux log records and later singled out the culprit from those records.
+
+
+
+
+
+
+
+
+
+Recreated screencast
+
+
+
+
+
 
 
         </description>
-        <pubDate>Sun, 21 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/storage-at-your-finger-tip/</link>
-        <guid isPermaLink="true">http://localhost:4000/storage-at-your-finger-tip/</guid>
+        <pubDate>Mon, 27 Jul 2020 15:16:00 +0100</pubDate>
+        <link>http://localhost:4000/VFX-checking-through-white-house-records-designated-survivor/</link>
+        <guid isPermaLink="true">http://localhost:4000/VFX-checking-through-white-house-records-designated-survivor/</guid>
+      </item>
+    
+      <item>
+        <title>SEO - Behind the scenes</title>
+        <description>
+          
+          Everybody wants to appear on the first page of google search results and frankly, I think every business should consider having measures in place for effective SEO (Search Engine Optimization). Page Rank is the algorithm at the heart of google search engine. Page rank in itself is not a search...
+        </description>
+        <pubDate>Tue, 21 Jul 2020 12:25:00 +0100</pubDate>
+        <link>http://localhost:4000/seo-behind-the-scenes/</link>
+        <guid isPermaLink="true">http://localhost:4000/seo-behind-the-scenes/</guid>
+      </item>
+    
+      <item>
+        <title>Why Nigeria should consider Smart Energy</title>
+        <description>
+          
+          I have really been looking at the concept of smart energy and the benefits it can offer to my country Nigeria. Smart Energy encompasses the entire energy chain from ensuring the right amount of energy is generated to meet the demand but that fuel isn't wasted by creating an oversupply....
+        </description>
+        <pubDate>Tue, 21 Jul 2020 09:29:00 +0100</pubDate>
+        <link>http://localhost:4000/why-nigeria-should-consider-smart-energy/</link>
+        <guid isPermaLink="true">http://localhost:4000/why-nigeria-should-consider-smart-energy/</guid>
       </item>
     
       <item>

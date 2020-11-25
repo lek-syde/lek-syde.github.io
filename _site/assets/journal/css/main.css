@@ -1,25 +1,25 @@
 @charset "UTF-8";
 @font-face {
-  font-family: 'Cheltenham';
-  src: url("assets/fonts/CheltenhamBT-Roman.eot?#iefix") format("embedded-opentype"), url("assets/fonts/CheltenhamBT-Roman.woff") format("woff"), url("assets/fonts/CheltenhamBT-Roman.ttf") format("truetype"), url("assets/fonts/CheltenhamBT-Roman.svg#CheltenhamBT-Roman") format("svg");
+  font-family: 'Rubik';
+  src: url("assets/fonts/RubikBT-Roman.eot?#iefix") format("embedded-opentype"), url("assets/fonts/RubikBT-Roman.woff") format("woff"), url("assets/fonts/RubikBT-Roman.ttf") format("truetype"), url("assets/fonts/RubikBT-Roman.svg#RubikBT-Roman") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'Cheltenham';
-  src: url("assets/fonts/CheltenhamBT-Italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/CheltenhamBT-Italic.woff") format("woff"), url("assets/fonts/CheltenhamBT-Italic.ttf") format("truetype"), url("assets/fonts/CheltenhamBT-Italic.svg#CheltenhamBT-Italic") format("svg");
+  font-family: 'Rubik';
+  src: url("assets/fonts/RubikBT-Italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/RubikBT-Italic.woff") format("woff"), url("assets/fonts/RubikBT-Italic.ttf") format("truetype"), url("assets/fonts/RubikBT-Italic.svg#RubikBT-Italic") format("svg");
   font-weight: normal;
   font-style: italic; }Deliverynote.otf
 
 @font-face {
-  font-family: 'Cheltenham';
-  src: url("assets/fonts/CheltenhamBT-Bold.eot?#iefix") format("embedded-opentype"), url("assets/fonts/CheltenhamBT-Bold.woff") format("woff"), url("assets/fonts/CheltenhamBT-Bold.ttf") format("truetype"), url("assets/fonts/CheltenhamBT-Bold.svg#CheltenhamBT-Bold") format("svg");
+  font-family: 'Rubik';
+  src: url("assets/fonts/RubikBT-Bold.eot?#iefix") format("embedded-opentype"), url("assets/fonts/RubikBT-Bold.woff") format("woff"), url("assets/fonts/RubikBT-Bold.ttf") format("truetype"), url("assets/fonts/RubikBT-Bold.svg#RubikBT-Bold") format("svg");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
-  font-family: 'Cheltenham';
-  src: url("assets/fonts/CheltenhamBT-BoldItalic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/CheltenhamBT-BoldItalic.woff") format("woff"), url("assets/fonts/CheltenhamBT-BoldItalic.ttf") format("truetype"), url("assets/fonts/CheltenhamBT-BoldItalic.svg#CheltenhamBT-BoldItalic") format("svg");
+  font-family: 'Rubik';
+  src: url("assets/fonts/RubikBT-BoldItalic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/RubikBT-BoldItalic.woff") format("woff"), url("assets/fonts/RubikBT-BoldItalic.ttf") format("truetype"), url("assets/fonts/RubikBT-BoldItalic.svg#RubikBT-BoldItalic") format("svg");
   font-weight: bold;
   font-style: italic; }
 
@@ -99,6 +99,14 @@ html {
 a:focus {
   outline: none; }
 
+.header-avater{
+    border-radius: 50px;
+    box-shadow: 0 0 0 2px #FCF9F4;
+    margin-top: -8px;
+    transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    width: 40px;
+  }
+
 a:active, a:hover {
   outline: 0; }
 
@@ -125,12 +133,32 @@ mark {
   background: #ff0;
   color: #000; }
 
+
+
+
 code, kbd, pre, samp {
   font-family: monospace, serif;
-  font-size: 1em; }
+  font-size: 1em;
+  display: block;
+}
 
 pre {
-  white-space: pre-wrap; }
+   background: #000000;
+    border: 1px solid #ddd;
+    border-left: 3px solid #f36d33;
+    color: #fff;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    max-width: 95vw;
+    overflow: scroll;
+    padding: 1em 1.5em;
+    display: block;
+    white-space: pre !important;
+
+}
 
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
@@ -246,7 +274,7 @@ html {
   background-size: 512px;
   background-color: #ffff;
   color: #383A3B;
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.4;
@@ -258,13 +286,14 @@ html {
     background-image: none;
     background-color: #fefefe; }
   html.alt-texture {
-   
+
     background-size: 512px; }
 
 html,
 body {
   position: relative;
-  width: 100%; }
+  width: 100%;
+}
   html.no-scroll,
   body.no-scroll {
     overflow-y: hidden; }
@@ -330,17 +359,19 @@ textarea {
   color: #5B5B5B;
   color: rgba(91, 91, 91, 0.4); }
 
+
+
 sup {
   top: -0.7em;
   font-size: 50%;
   font-weight: bold; }
 
   .o-title-bar__title{
-   font-family: "JustLovely","Cheltenham", Times, serif;
+   font-family: "JustLovely","Rubik", Times, serif;
   }
 
   .second-font{
-   font-family:"Cheltenham", Times, serif !important;
+   font-family:"Rubik", Times, serif !important;
    font-size: 36px !important;
   }
 
@@ -396,7 +427,7 @@ sup {
 .o-btn--decorative, .c-banner--lg .c-banner__wide a {
   position: relative;
   border-color: transparent;
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   font-style: italic;
   text-transform: none;
   background-color: #5B5B5B;
@@ -466,7 +497,7 @@ sup {
   left: 16px;
   display: block;
   text-align: center;
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   font-style: italic !important;
   font-weight: bold;
   text-transform: none;
@@ -550,7 +581,7 @@ sup {
   display: block;
   width: 96px;
   height: 96px;
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   font-size: 16px;
   font-weight: normal;
   line-height: 96px;
@@ -595,7 +626,7 @@ sup {
     display: inline-block;
     color: #AA0E17;
     margin-left: 8px;
-    font-family: "Cheltenham", Times, serif;
+    font-family: "Rubik", Times, serif;
     text-transform: none;
     letter-spacing: 0.5px;
     font-weight: normal;
@@ -1063,7 +1094,7 @@ sup {
       padding-top: 16px;
       -ms-grid-row: 2;
       -ms-grid-row-span: 1;
-      grid-row: 2 / span 1; } }
+       } }
 
 .o-title-bar__title {
   font-size: 41px;
@@ -1201,7 +1232,7 @@ sup {
   height: 2px; }
 
 .o-heading {
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   font-size: 2rem;
   letter-spacing: 0.56px;
   font-weight: bold; }
@@ -1542,7 +1573,7 @@ sup {
     letter-spacing: 2.5px;
     text-align: center; }
   .c-card--small .c-card__body {
-    font-family: "Cheltenham", Times, serif;
+    font-family: "Rubik", Times, serif;
     text-transform: none;
     font-size: 14px;
     letter-spacing: 0.2px;
@@ -1970,7 +2001,7 @@ sup {
        column-gap: 8px;
   padding-top: 64px;
   background-color: transparent;
- 
+
   color: #383A3B;
   font-family: "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; }
   @media screen and (min-width: 641px) {
@@ -2056,7 +2087,7 @@ sup {
       justify-content: space-between;
   padding: 24px 0;
   background-color: transparent;
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   border-top: 1px solid rgba(56, 58, 59, 0.24); }
   @media screen and (min-width: 641px) {
     .c-footer__social {
@@ -2088,7 +2119,7 @@ sup {
       grid-template-columns: repeat(2, 1fr); } }
 
 .c-footer__anchor {
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   text-decoration: underline; }
 
 .c-footer__social-link {
@@ -2490,7 +2521,7 @@ sup {
 .c-header--careers {
   background-image: url("/assets/img/bg-texture-02.png");
   background-size: 512px;
-  font-family: "Cheltenham", Times, serif; }
+  font-family: "Rubik", Times, serif; }
   .c-header--careers .c-header__menu {
     -ms-flex-pack: distribute;
         justify-content: space-around;
@@ -3104,7 +3135,7 @@ sup {
   display: block;
   padding: 24px 0;
   line-height: 1;
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   font-weight: normal;
   text-transform: uppercase;
   text-align: right;
@@ -3400,7 +3431,7 @@ sup {
   letter-spacing: 0.5px;
   -ms-grid-column: 1;
   -ms-grid-column-span: 2;
-  grid-column: 1 / span 2; }
+  grid-column: 1 / span 3; }
 
 .c-post__date {
   margin: 16px auto 32px;
@@ -3925,7 +3956,7 @@ sup {
   .c-post-list__post--sticky h2 {
     margin: 16px auto;
     max-width: 350px;
-    font-family: "Cheltenham", Times, serif;
+    font-family: "Rubik", Times, serif;
     text-align: center;
     font-style: italic;
     font-size: 24px;
@@ -4237,7 +4268,7 @@ sup {
   .c-product-list__product--sticky h2 {
     margin: 16px auto;
     max-width: 350px;
-    font-family: "Cheltenham", Times, serif;
+    font-family: "Rubik", Times, serif;
     text-align: center;
     font-style: italic;
     font-size: 24px;
@@ -4527,7 +4558,7 @@ sup {
         content: "~";
         display: block; }
     .c-recognition__list--compact .c-recognition__award:nth-child(3) > *:nth-child(3) {
-      font-family: "Cheltenham", Times, serif;
+      font-family: "Rubik", Times, serif;
       font-style: normal;
       letter-spacing: 0.5px; }
 
@@ -5058,7 +5089,7 @@ sup {
   background-color: transparent;
   border: none;
   text-decoration: underline;
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   font-style: italic;
   color: #383A3B;
   padding: 0; }
@@ -5646,7 +5677,7 @@ sup {
   letter-spacing: 0.05em;
   font-style: italic;
   text-transform: none;
-  font-family: "Cheltenham", Times, serif; }
+  font-family: "Rubik", Times, serif; }
 
 .c-badge-jump__img {
   -ms-grid-row: 1;
@@ -5685,7 +5716,7 @@ sup {
       padding: 0 16px; } }
 
 .c-badge-jump__body--serif {
-  font-family: "Cheltenham", Times, serif; }
+  font-family: "Rubik", Times, serif; }
 
 .c-badge-jump__cta:after {
   content: "";
@@ -7564,7 +7595,7 @@ sup {
     font-size: 32px;
     font-weight: normal;
     letter-spacing: 1px;
-    font-family: "Cheltenham", Times, serif; }
+    font-family: "Rubik", Times, serif; }
 
 .v-careers-who__intro-body,
 .v-careers-join__intro-body {
@@ -7838,7 +7869,7 @@ sup {
   right: 64px;
   bottom: 88px;
   z-index: 200;
-  font-family: "Cheltenham", Times, serif;
+  font-family: "Rubik", Times, serif;
   font-size: 14px;
   color: #FFF;
   text-decoration: none;
@@ -9277,7 +9308,7 @@ input:-webkit-autofill:active {
   font-size: 16px;
   max-width: 384px;
   letter-spacing: 0.5px;
-  font-family: "Cheltenham", Times, serif; }
+  font-family: "Rubik", Times, serif; }
   #cookie-consent.is-active {
     display: block; }
   #cookie-consent a {
@@ -9342,6 +9373,10 @@ input:-webkit-autofill:active {
     display: none; }
   .printable .c-voucher {
     padding: 16mm; } }
+
+
+}
+
 
 .dev-shopify {
   margin: 0 auto !important; }

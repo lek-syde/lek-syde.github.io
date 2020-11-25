@@ -1,0 +1,31 @@
+
+.center{
+  justify-content: center !important;
+  justify-items: center;
+  margin: 0px auto;
+
+}
+
+.artimg{
+  background-repeat: no-repeat;
+      background-size: contain;
+      background-position: 100%;
+
+}
+
+#notice_wrapper{
+    top: 0;
+    width: 100%;
+    z-index: 999;
+
+    background-color: rgba(30, 130, 76, 0.85);
+}
+#notice_wrapper p{
+    padding: 1.75rem 0;
+    text-align: center;
+    margin: 0;
+    font-weight: 400;
+  }
+.w-100{
+  width: 100%;
+}

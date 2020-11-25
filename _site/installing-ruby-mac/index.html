@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html
+  lang="en"
+>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Installing Ruby - MAC</title>
+    <meta
+      name="description"
+      content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+      <meta property="og:image" content="/uploads/sn.png?auto=compress,format&rect=500,0,4000,2500&w=1280&h=800">
+    
+
+       <link
+      href="/assets/journal/css/main.css"
+      rel="stylesheet"
+      type="text/css">
+
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/journal/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/journal/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/journal/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/journal/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/assets/journal/favicon/safari-pinned-tab.svg" color="#383a3b">
+    <link rel="shortcut icon" href="/assets/journal/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#383a3b">
+    <meta name="msapplication-config" content="/assets/journal/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#f8f7eb">
+    
+    
+    <link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js"></script>
+<!-- and it's easy to individually load additional languages -->
+<script charset="UTF-8"
+ src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/go.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+   
+
+
+  </head>
+
+  <body
+    class="no-animations ">
+ 
+
+    
+
+    
+   <div class="o-section">
+  <div class="o-title-bar has-subnav">
+
+
+
+    <h1 class="o-title-bar__title">
+    	<a href="/"  style="text-decoration: none;">
+    <img class="header-avater" src="/assets/avater.jpeg" alt="Olalekan Folayan"><br/>
+     </a>
+    </h1>
+
+
+  </div>
+
+
+   <div class="o-title-bar__subnav"><a
+      href="/aboutme"
+      >
+      About Me
+    </a><a
+      href="/life"
+      >
+      Life
+    </a><a
+      href="/work"
+      >
+      Work
+    </a><a
+      href="/blog"
+      >
+      Blog
+    </a><a
+      href="/inspiration"
+      >
+      Books
+    </a><a
+      href="/vfx"
+      >
+      VFX[Hobbyist]
+    </a></div>
+
+</div>
+
+    
+
+    
+      
+
+    
+
+
+<div class="o-section c-post__intro-wrapper">
+     <div class="o-title-bar o-title-bar--post">
+    <a class="o-backlink" id="back-to" href="/"></a>
+
+    <h1 class="o-title-bar__title second-font" >
+     Installing Ruby - MAC
+    </h1>
+
+    <span></span>
+  </div>
+
+  <div class="c-post__intro o-section__inner">
+    
+
+    <div class="c-post__meta">
+      <h2 class="c-post__subheading">
+        
+      </h2>
+      
+      <div class="c-post__meta-detail">
+        <p class="c-post__date">
+         August 3, 2020
+        </p>
+      </div>
+
+      <div class="c-social-share c-post__meta-share u-hide-mobile">
+        <h4 class="c-social-share__heading">
+          Share
+        </h4>
+
+        <span class="c-social-share__body">
+          <a class="c-social-share__link" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/installing-ruby-mac/" onclick="window.open(this.href, 'facebookwindow','left=20,top=20,width=600,height=700,toolbar=0,resizable=1'); return false;">Facebook</a>,
+          <a class="c-social-share__link" target="_blank" href="https://twitter.com/intent/tweet?text=Installing+Ruby+-+MAC+http://localhost:4000/installing-ruby-mac/" >Tweet</a> or
+          <button class="c-social-share__link js-clipboard" data-clipboard-text="http://localhost:4000/installing-ruby-mac/">Copy Link</button>
+          <div class="c-social-share__success" id="clipboard_success">Copied to clipboard</div>
+        </span>
+      </div>
+    </div>
+
+ 
+                                      <img
+      class="c-post__hero-img o-border"
+      src="/uploads/sn.png"
+      alt=""
+      data-aos="grayscale"/>
+                                     
+
+
+    <div class="c-post__intro-body o-type-dropcap">
+       <p>I recently tried installing ruby on my mac and faced a lot of challenges during the install.
+I really hope this guide helps.</p>
+
+<p><a href="https://www.ruby-lang.org/en/">Ruby </a> is a great programming language for developing complex web applications. (makes it look like magic!).
+I felt I dive deeper into ruby (<a href="https://rubyonrails.org/">ruby on rails</a>) after observing the ease with which you can do some much very quickly with very little code.</p>
+
+<p>so here are the commands you need to run to get you started.</p>
+
+<div class="language-shell highlighter-rouge"><pre class="highlight"><code><span class="gp">leksyde$ </span><span class="se">\c</span>url -sSL https://get.rvm.io | bash
+<span class="gp">leksyde$ </span><span class="nb">source</span> /home/&lt;user&gt;/.rvm/scripts/rvm
+<span class="gp">leksyde$ </span>rvm -v
+<span class="gp">leksyde$ </span>rvm install ruby
+<span class="gp">leksyde$ </span>ruby -v
+<span class="gp">leksyde$ </span>sudo apt-get install rubygems
+<span class="gp">leksyde$ </span>gem update
+<span class="gp">leksyde$ </span>sudo apt-get install ruby-dev zlib1g-dev liblzma-dev build-essential patch
+<span class="gp">leksyde$ </span>rvm gemset list
+<span class="gp">leksyde$ </span>gem install rails
+<span class="gp">leksyde$ </span>rails -v
+</code></pre>
+</div>
+
+<p>Replace <user> with your username</user></p>
+
+<p>That’s it and you are up and running!
+happy coding</p>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+                    
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="c-footer js-underlap">
+  
+
+  <div class="c-footer__social">
+    <div>
+     Designed with 🖤 <a href="https://jekyllrb.com/" data-barba-prevent>with Jekyll</a>
+    </div>
+
+    <div>
+      
+
+       <a
+          class="c-footer__social-link"
+          href="mailto:lekus07@gmail.com"
+          target="_blank"
+          rel="noopener"
+          onclick="window.track.outbound('Footer Social Link', '', this)"
+          data-barba-prevent>
+          <img
+            class="c-footer__icon"
+            src="https://res.cloudinary.com/moversng/image/upload/v1595154347/iconmonstr-email-11_1_no3nkg.svg"
+            alt=""
+            width="16">
+        </a>
+      
+      
+        <a
+          class="c-footer__social-link"
+          href="https://www.linkedin.com/in/folayan-olalekan/"
+          target="_blank"
+          rel="noopener"
+          onclick="window.track.outbound('Footer Social Link', '', this)"
+          data-barba-prevent>
+          <img
+            class="c-footer__icon"
+            src="https://res.cloudinary.com/moversng/image/upload/v1595154452/iconmonstr-linkedin-5_k25is1.svg"
+            alt=""
+            width="16">
+        </a>
+      
+        <a
+          class="c-footer__social-link"
+          href="https://twitter.com/lek_sydee"
+          target="_blank"
+          rel="noopener"
+          onclick="window.track.outbound('Footer Social Link', '', this)"
+          data-barba-prevent>
+          <img
+            class="c-footer__icon"
+            src="https://res.cloudinary.com/moversng/image/upload/v1595153030/iconmonstr-twitter-5_axezzq.svg"
+            alt=""
+            width="16">
+        </a>
+      
+        <a
+          class="c-footer__social-link"
+          href="https://www.instagram.com/leks_yde/"
+          target="_blank"
+          rel="noopener"
+          onclick="window.track.outbound('Footer Social Link', '', this)"
+          data-barba-prevent>
+          <img
+            class="c-footer__icon"
+            src="https://res.cloudinary.com/moversng/image/upload/v1595153151/iconmonstr-instagram-10_lv0azp.svg"
+            alt=""
+            width="16">
+        </a>
+      
+    </div>
+  </div>
+</footer>
+    
+      
+    
+
+   
+
+<script src="/assets/journal/js/scripts.min.js"></script>
+  </body>
+</html>
