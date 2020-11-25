@@ -25,9 +25,8 @@ url: https://lek-syde.github.io
 baseurl: ''
 description: Programming and a Bunch of other stuffs!
 navbar-links:
-  About Me: aboutme
-  Life: life
-  Work: work
+  About: aboutme
+  portfolio: work
   Blog: "blog"
   Books: inspiration
   VFX[Hobbyist]: vfx
