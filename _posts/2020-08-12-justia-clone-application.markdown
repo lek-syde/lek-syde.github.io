@@ -18,7 +18,7 @@ mockup coming soon
 <p>Responsive Bootstrap design</p>
 so much more...
 
-Built using Ruby on rails, Amazon s3...
+Built using Ruby on rails
 
 
 
