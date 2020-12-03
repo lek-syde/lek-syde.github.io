@@ -1,10 +1,10 @@
 ---
-title: Web Application for lawyers
+title: Ruby Justia.com Clone Application
 date: 2020-08-12 20:16:00 +01:00
 tags:
 - work
-subtitle: An Avoo and Justia Model Web Application
-image: https://res.cloudinary.com/moversng/image/upload/q_auto/v1597259902/todojustice.herokuapp.com__Laptop_with_HiDPI_screen_dioc7y.png
+subtitle: Justia Model Web Application built with Ruby on Rails
+image: https://res.cloudinary.com/moversng/image/upload/v1607032921/todo_2_phbnwu.gif
 ---
 
 Research legal advice
@@ -15,7 +15,7 @@ TODO Lawyer directory-
 mockup coming soon
 
 <p>user profile</p>
-<p>Responsive Bulma design </p>
+<p>Responsive Bootstrap design</p>
 so much more...
 
 Built using Ruby on rails, Amazon s3...
