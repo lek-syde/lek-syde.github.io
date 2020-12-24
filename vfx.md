@@ -1,12 +1,13 @@
 ---
-layout: journalindex
+title: VFX
 subtitle: 
 use-site-title: true
+layout: journalindex
 ---
 
 <div class="c-post-list">
   
-
+hi
   <div class="c-post-list__posts c-post-list__posts--beta" style="border-top: none;">
 {% assign numPosts = site.tags.vfx | size %}
 {% if numPosts == 0 %}
